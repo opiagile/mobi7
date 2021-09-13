@@ -33,6 +33,7 @@ A aplicação foi criada sobre microserviço. Seguir esta sequência de execuç�
 ```shell script
 br.com.mobi7.posicaoapp.discovery.PosicaoAppDiscoveryServiceApplication
 ```
+1.1 Para visualizar os micro serviços acessar este endereço: http://localhost:9999/
 
 2. Executar os micro serviços de Posições e Pontos de Interesse
 ```shell script
